@@ -1,0 +1,30 @@
+/* Write your CSS here */
+
+.list-items {
+  list-style-type: none;
+}
+
+.tab-button {
+  background: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 600;
+  font-family: 'Bree Serif';
+  color: #7b8794;
+  padding-top: 10px;
+}
+
+.active-tab-button {
+  background: none;
+  border: none;
+  font-size: 18px;
+  font-weight: 800;
+  font-family: 'Bree Serif';
+  color: #2563eb;
+  padding-top: 10px;
+  text-decoration: underline;
+}
+
+.line {
+  width: 100%;
+}
